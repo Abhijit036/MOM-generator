@@ -1,7 +1,14 @@
+# Streamlit UI + Lottie animations
+streamlit
 streamlit-lottie
-pillow
+
+# PDF, DOCX, and image handling
 pypdf
-google.generativeai
 python-docx
+pillow
+
+# Google Generative AI (your AI integration)
+google-generativeai
+
+# OpenCV for image processing (headless for cloud)
 opencv-python-headless
-python-cv2
