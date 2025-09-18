@@ -4,3 +4,4 @@ pypdf
 google.generativeai
 python-docx
 opencv-python-headless
+python-cv2
