@@ -1,4 +1,4 @@
-streamlit-lottie
+streamlit-lottiE
 pillow
 pypdf
 google.generativeai
